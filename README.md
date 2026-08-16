@@ -16,6 +16,7 @@ brew install rhyumiranda/tap/<formula>
 | Formula | What it is | Install |
 | --- | --- | --- |
 | [`sesame`](https://github.com/rhyumiranda/sesame) | Fingerprint-gated env-secret vault for AI agents | `brew install rhyumiranda/tap/sesame` |
+| [`canopy`](https://github.com/rhyumiranda/canopy) | Orchestration layer for AI coding agents | `brew install rhyumiranda/tap/canopy` |
 
 _More coming — each new tool is just another file under `Formula/`._
 
